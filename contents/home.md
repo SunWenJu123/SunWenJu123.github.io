@@ -1,16 +1,13 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Ph.D. in Computer Science and Technology at the School of Computer Science and Technology, Beijing Jiaotong University, China, under the supervision of Prof. Qingyong Li. During 2024–2025, he is a Visiting Scholar at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore, working with Prof. Boyang Li.
 
 #### Email
-sli[at]cumt.edu.cn
+SunWenJu@bjtu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Computer Science and Technology, Beijing Jiaotong University, 2020—2026 (expected).\
+Visiting Scholar, Nanyang Technological University (Singapore), 2024—2025.\
+B.E., Software Engineering, Beijing Jiaotong University, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Incremental Learning, Model Merging.
 
