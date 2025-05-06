@@ -1,4 +1,4 @@
-- **Sun Wenju**, Li Qingyong, Geng Yangli-ao\*, Boyang Li. CAT Merging: A Training-Free Approach for Resolving Conflicts in Model Merging[C]. **ICML**, 2025. (`CCF-A`)
+- **Sun Wenju**, Li Qingyong\*, Geng Yangli-ao\*, Boyang Li. CAT Merging: A Training-Free Approach for Resolving Conflicts in Model Merging[C]. **ICML**, 2025. (`CCF-A`)
 - **Sun Wenju**, Li Qingyong, Zhang Siyu, Wang Wen, Geng Yangli-ao\*, Boyang Li. Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts[J]. **ArXiv**, 2025. [[Paper]](https://arxiv.org/pdf/2501.15065)
 - **Sun Wenju**, Li Qingyong, Zhang Jing, Wang Danyu, Wang Wen, Geng Yangli-ao\*. Survey of Incremental Learning with Deep Neural Networks[J]. **Data Analysis and Knowledge Discovery**, 2025. (`中文核心期刊`) [[Paper]](https://manu44.magtech.com.cn/Jwk_infotech_wk3/CN/10.11925/infotech.2096-3467.2024.0508)
 - **Sun Wenju**, Li Qingyong, Zhang Siyu, Wang Wen, Geng Yangli-ao\*. Incremental Learning via Robust Parameter Posterior Fusion[C]. **ACM MM**, 2024. (`CCF-A`) [[Code]](https://github.com/SunWenJu123/rp2f) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681164)

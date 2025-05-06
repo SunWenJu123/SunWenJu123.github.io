@@ -1,4 +1,4 @@
-- National Scholarship of Ph.d. Student, 2024.
+- National Scholarship of Ph.D. Student, 2024.
 - The 10th China Undergraduate FWWB Innovation and Entrepreneurship Competition, 2019.
   - Second Prize, 1st order in group
   - Project: Big data prediction of large-scale capital inflow and outflow
