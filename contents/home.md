@@ -1,13 +1,13 @@
-He is currently pursuing a Ph.D. in Computer Science and Technology at the School of Computer Science and Technology, Beijing Jiaotong University, China, under the supervision of Prof. Qingyong Li. During 2024–2025, he is a Visiting Scholar at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU), Singapore, working with Prof. Boyang Li.
+北京交通大学计算机科学与技术学院博士生，指导教师为李清勇教授。
 
-#### Email
+#### 联系方式
 SunWenJu@bjtu.edu.cn
 
-#### Education
-Ph.D., Computer Science and Technology, Beijing Jiaotong University, 2020—2026 (expected).\
-Visiting Scholar, Nanyang Technological University (Singapore), 2024—2025.\
-B.E., Software Engineering, Beijing Jiaotong University, 2016—2020.
+#### 教育经历
+硕博连读, 计算机科学与技术, 北京交通大学, 2020—2026 (预计). 指导教师：李清勇\
+联合培养博士生, 南洋理工大学 (新加坡), 2024—2025. 指导教师：Boyang Li\
+学士学位, 软件工程, 北京交通大学, 2016—2020.
 
-#### Research Interests
-Incremental Learning, Model Merging.
+#### 科研方向
+增量学习, 模型融合.
 

@@ -1,4 +1,7 @@
-- National Scholarship of Ph.D. Student, 2024.
-- The 10th China Undergraduate FWWB Innovation and Entrepreneurship Competition, 2019.
-  - Second Prize, 1st order in group
-  - Project: Big data prediction of large-scale capital inflow and outflow
+- 中国铁道学会科学技术奖
+  - 二等奖，团队排序第9
+  - 项目名称：轨道巡检视觉感知关键技术及虚拟仿真实验系统
+- 博士国家奖学金, 2024.
+- 第十届中国大学生服务外包创新创业大赛
+  - 二等奖，团队排序第1
+  - 项目名称: 大规模资金流入流出预测
