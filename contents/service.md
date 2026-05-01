@@ -18,4 +18,5 @@
 + TPAMI
 + TMM
 + TCSVT
++ Pattern Recognition
 
