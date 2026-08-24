@@ -1,9 +1,9 @@
-- **中国科协青年科技人才培育工程博士生专项计划** (**博士青托**) , 2025.
-- **博士国家奖学金**, 2025.
-- **中国铁道学会科学技术奖**, 2025.
-  - 二等奖，团队排序 9/20
-  - 项目名称：轨道巡检视觉感知关键技术及虚拟仿真实验系统
-- **博士国家奖学金**, 2024.
-- **第十届中国大学生服务外包创新创业大赛**, 2019.
-  - 二等奖，**团队排序 1/5**
-  - 项目名称: 大规模资金流入流出预测
+- <span class="zh"><strong>中国科协青年科技人才培育工程博士生专项计划</strong>（<strong>博士青托</strong>），2025。</span><span class="en">China Association for Science and Technology Young Science and Technology Talent Development Program (Ph.D. Track), 2025.</span>
+- <span class="zh"><strong>博士国家奖学金</strong>，2025。</span><span class="en">National Scholarship for Ph.D. Students, 2025.</span>
+- <span class="zh"><strong>中国铁道学会科学技术奖</strong>，2025。</span><span class="en">China Railway Society Science and Technology Award, 2025.</span>
+  - <span class="zh">二等奖，团队排序 9/20</span><span class="en">Second Prize; team ranking: 9/20.</span>
+  - <span class="zh">项目名称：轨道巡检视觉感知关键技术及虚拟仿真实验系统</span><span class="en">Project: Key Technologies for Visual Perception in Railway Inspection and a Virtual Simulation Experiment System.</span>
+- <span class="zh"><strong>博士国家奖学金</strong>，2024。</span><span class="en">National Scholarship for Ph.D. Students, 2024.</span>
+- <span class="zh"><strong>第十届中国大学生服务外包创新创业大赛</strong>，2019。</span><span class="en">10th China College Students Service Outsourcing Innovation and Entrepreneurship Competition, 2019.</span>
+  - <span class="zh">二等奖，<strong>团队排序 1/5</strong></span><span class="en">Second Prize; <strong>team ranking: 1/5</strong>.</span>
+  - <span class="zh">项目名称：大规模资金流入流出预测</span><span class="en">Project: Large-scale fund inflow and outflow prediction.</span>
