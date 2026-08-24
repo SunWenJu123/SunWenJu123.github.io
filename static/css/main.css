@@ -60,7 +60,18 @@ section header h2 .en {
 }
 
 .bilingual-heading .en {
+    display: inline !important;
     color: #666;
+}
+
+#home-subtitle .en {
+    display: inline;
+    margin-left: 0.35em;
+    font-family: "Mulish", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.5em;
+    font-weight: 500;
+    line-height: 1;
+    vertical-align: baseline;
 }
 
 .bilingual-heading .zh,
