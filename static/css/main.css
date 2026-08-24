@@ -50,19 +50,17 @@ section header h2{
 
 .bilingual-heading .en,
 section header h2 .en {
-    display: block;
+    display: inline;
+    margin-left: 0.45em;
     font-family: "Mulish", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 0.55em;
     font-weight: 500;
     line-height: 1.2;
+    vertical-align: baseline;
 }
 
 .bilingual-heading .en {
-    margin-top: 0.15rem;
-}
-
-section header h2 .en {
-    margin-top: -0.9rem;
+    color: #666;
 }
 
 .bilingual-heading .zh,
