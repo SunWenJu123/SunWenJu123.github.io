@@ -4,13 +4,13 @@
 
 <h4 class="bilingual-heading"><span class="zh">会议审稿人</span><span class="en">Conference Reviewer</span></h4>
 
-+ NeurIPS: 2025
++ NeurIPS: 2025, 2026
 + ICML: 2022, 2026
-+ ICLR: 2025, 2026
++ ICLR: 2025, 2026, 2027
 + CVPR: 2024, 2025, 2026
 + ICCV: 2025
 + ECCV:2026
-+ AAAI: 2024, 2025
++ AAAI: 2024, 2025, 2026
 + ACM MM: 2025, 2026
 
 <h4 class="bilingual-heading"><span class="zh">期刊审稿人</span><span class="en">Journal Reviewer</span></h4>
@@ -18,5 +18,7 @@
 + TPAMI
 + TMM
 + TCSVT
++ TNNLS
 + Pattern Recognition
++ NeuroComputing
 
